@@ -1,6 +1,0 @@
-Todo
-=====
-Stripe integration
-Bitcoin wallet
-Google Analytics
-Port email to gmail
